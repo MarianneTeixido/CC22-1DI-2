@@ -4,8 +4,7 @@
 
 ![portada](https://github.com/MarianneTeixido/CC22-1DI-2/blob/main/img/01.png)
 
-## Introducción
-	[Presentación]()
+[about](https://marianneteixido.github.io/index.html#inicio)
 
 ## Metas de aprendizaje
 
