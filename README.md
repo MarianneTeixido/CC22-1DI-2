@@ -2,7 +2,7 @@
 ### __Licenciatura en Diseño Industrial__  
 ### __CENTRO Diseño, Cine y Televisión__  
 
-![portada](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/noche01.png)
+![portada](https://github.com/MarianneTeixido/CC22-1DI-2/blob/main/img/01.png)
 
 ## Objetivos 
 
