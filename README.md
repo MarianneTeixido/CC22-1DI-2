@@ -4,7 +4,8 @@
 
 ![portada](https://github.com/MarianneTeixido/CC22-1DI-2/blob/main/img/01.png)
 
-## Objetivos 
+## Introducción
+	[Presentación]()
 
 ## Metas de aprendizaje
 
@@ -23,7 +24,12 @@
 
 ## Sesiones 
 
-- [ ] Sesión 01 | 06.08 - Repaso 
+- [ ] Sesión 01 | 06.08 - Introducción  
+	- Introducción a la programación: [te lo explico con gatitos](https://teloexplicocongatitos.com/poster/tlecg05)
+	- Creative Coding: [The Art of Creative Coding](https://www.pbs.org/video/-book-art-creative-coding/)
+	
+![portada](https://github.com/MarianneTeixido/CC22-1DI-2/blob/main/img/cox.jpg)
+
 - [ ] Sesión 02 | 13.08
 - [ ] Sesión 03 | 20.08
 - [ ] Sesión 04 | 27.08 
@@ -92,7 +98,9 @@ Cada clase está dividida en dos partes:
 
 ## Recursos 
 
-Acá pondre links a páginas y tutoriales de utilidad. 
+- Video  
+[Tutorial introductorio](https://www.youtube.com/watch?v=2VLaIr5Ckbs&list=PLzJbM9-DyOZyMZzVda3HaWviHqfPiYN7e). Daniel Shiffman
+
 
 ## Bibliografía
 Bohnacker, H., Groß, B., & Laub, J. (2009). Generative design: visualize, program and create with processing. New York: Princeton Architectural Press.  
