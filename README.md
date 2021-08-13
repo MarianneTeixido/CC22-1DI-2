@@ -35,7 +35,7 @@
 	- [Sistema de coordenadas](https://py.processing.org/tutorials/drawing/imgs/1.3.jpg)
 	- [Primitivos](https://www.instagram.com/viiv.art/)  
 		- rect 
-		- sphere
+		- ellipse
 		- modo estático
 		- primeras composiciones
 - [ ] Sesión 03 | 20.08
