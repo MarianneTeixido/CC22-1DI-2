@@ -23,7 +23,7 @@
 
 ## Sesiones 
 
-- [ ] Sesión 01 | 06.08 - Introducción  
+- [X] Sesión 01 | 06.08 - Introducción  
 	- Introducción a la programación: [te lo explico con gatitos](https://teloexplicocongatitos.com/poster/tlecg05)
 	- Creative Coding: [The Art of Creative Coding](https://www.pbs.org/video/-book-art-creative-coding/)
 	
