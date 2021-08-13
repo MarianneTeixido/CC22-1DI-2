@@ -30,6 +30,14 @@
 ![portada](https://github.com/MarianneTeixido/CC22-1DI-2/blob/main/img/cox.jpg)
 
 - [ ] Sesión 02 | 13.08
+ 	- [Geometry](https://geometries.xyz/performances.html) Joana C-q & Renick Bell
+ 	- [Ciberpoesía](https://ciberpoesia.glitch.me/index.html) Flor de fuego
+	- [Sistema de coordenadas](https://py.processing.org/tutorials/drawing/imgs/1.3.jpg)
+	- [Primitivos](https://www.instagram.com/viiv.art/)  
+		- rect 
+		- sphere
+		- modo estático
+		- primeras composiciones
 - [ ] Sesión 03 | 20.08
 - [ ] Sesión 04 | 27.08 
 - [ ] Sesión 05 | 03.09 - Primera entrega parcial
