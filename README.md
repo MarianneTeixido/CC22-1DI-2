@@ -39,6 +39,11 @@
 		- modo estático
 		- primeras composiciones
 - [ ] Sesión 03 | 20.08
+	- Repaso
+		- [Coordenadas, formas](https://processing.org/tutorials/coordinatesystemandshapes)
+		- [Color](https://processing.org/tutorials/color)
+	- Ejercicio 
+
 - [ ] Sesión 04 | 27.08 
 - [ ] Sesión 05 | 03.09 - Primera entrega parcial
 - [ ] Sesión 06 | 10.09
