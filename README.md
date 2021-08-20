@@ -29,7 +29,7 @@
 	
 ![portada](https://github.com/MarianneTeixido/CC22-1DI-2/blob/main/img/cox.jpg)
 
-- [ ] Sesión 02 | 13.08
+- [X] Sesión 02 | 13.08
  	- [Geometry](https://geometries.xyz/performances.html) Joana C-q & Renick Bell
  	- [Ciberpoesía](https://ciberpoesia.glitch.me/index.html) Flor de fuego
 	- [Sistema de coordenadas](https://py.processing.org/tutorials/drawing/imgs/1.3.jpg)
