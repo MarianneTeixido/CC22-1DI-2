@@ -45,6 +45,9 @@
 	- Ejercicio 
 
 - [ ] Sesión 04 | 27.08 
+		- Tipos de variables
+		- Contadores
+
 - [ ] Sesión 05 | 03.09 - Primera entrega parcial
 - [ ] Sesión 06 | 10.09
 - [ ] Sesión 07 | 17.09
