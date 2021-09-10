@@ -48,8 +48,12 @@
 		- Tipos de variables
 		- Contadores
 
-- [ ] Sesión 05 | 03.09 - Primera entrega parcial
+- [ ] Sesión 05 | 03.09 
+		- Random
 - [ ] Sesión 06 | 10.09
+		- [Operadores relacionales](https://processing.org/reference/#control) 
+		- Operadores lógicos
+		- Condicionales
 - [ ] Sesión 07 | 17.09
 - [ ] Sesión 08 | 24.09
 - [ ] Sesión 09 | 01.09
